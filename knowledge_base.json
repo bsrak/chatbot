@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "Good! Thanks for asking!"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "Who is the author of \"Romeo and Juliet\"?",
+      "answer": "\"Romeo and Juliet\" was written by William Shakespeare."
+    },
+    {
+      "question": "What is the formula for calculating density?",
+      "answer": "Density is calculated by dividing the mass of an object by its volume. The formula is density = mass/volume."
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answer": "The Mona Lisa was painted by Leonardo da Vinci."
+    },
+    {
+      "question": "In what year did the Titanic sink?",
+      "answer": "The Titanic sank on April 15, 1912."
+    }
+  ]
+}
